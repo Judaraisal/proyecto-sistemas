@@ -18,9 +18,7 @@
 
 ![N|Solid](https://lh3.googleusercontent.com/dBxtRRaqgj0GzUMWFucHeAJgUuAQe8PsRUkbx0jRz0tX9OUYIUg26frcjWbljICof4nQi2dUtQiBqKm8ZCcQswvIkcw19ygXtG2TwuKdqw) 
 
-#### Descripción caso de uso
-
-
+### Descripción caso de uso
 ##### Nombre: Calcular promedio Ingresos Mensuales
 ##### Actores: Administrador de Empresas
 ##### Propósito: Guardar el nit de la tienda, el año, nombre del mes, y tres ingresos del mes para calcular su promedio.
