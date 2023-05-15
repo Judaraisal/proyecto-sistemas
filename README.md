@@ -35,7 +35,7 @@
 ### Aproximación seudocódigo          
 ###### .
 #### Inicio 
-
+***
 ######	Caracteres: nits [50], años [50], nombredelmess [50] 
 ######	Real: ingresouno [50], ingresodos [50], ingresotres [50] 
 ######	Caracteres: nit, año, nombredelmes 
@@ -68,3 +68,4 @@
 ######	finPara 
 ######	Imprimir: ‘El promedio es:’ + promedio 
 ###### Fin
+***
