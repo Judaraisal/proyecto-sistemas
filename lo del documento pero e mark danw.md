@@ -11,7 +11,7 @@
 ### Análisis del ejercicio:
 #### Aproximación plantilla historia de usuario:
 
-[![N|Solid](https://lh3.googleusercontent.com/WNjCfl6-w9vQ3i7sexU4GtVcW7sHRujMve8QTG6hbY_JHIXDkqlIUOYmFhQlcjCzcLV3U1HFG-gRPtCgYT7R7vGgQWlX1_Ez2SVJRVrw)
+![N|Solid](https://lh3.googleusercontent.com/WNjCfl6-w9vQ3i7sexU4GtVcW7sHRujMve8QTG6hbY_JHIXDkqlIUOYmFhQlcjCzcLV3U1HFG-gRPtCgYT7R7vGgQWlX1_Ez2SVJRVrw)
 ![N|Solid](https://lh3.googleusercontent.com/b3Asn1hI-4sG7g1yZ2rZ7wD_WFkjixW1ip2-8ojepoOKoEghWoJVWosH6qBxna8PFetSbEc5wH381IUtjOvEK2bsCgEp_EldeLJ_7LIQ)
 
 ## Aproximación caso de uso:
