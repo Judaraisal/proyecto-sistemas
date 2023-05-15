@@ -47,6 +47,6 @@ public class Calcular_ingresos_estructurada
       for(int i = 0; i < numMes; i++){
           promedio = promedio + (ingresouno[i] + ingresodos[i] + ingresotres[i] /3)/numMes;
       }
-      System.out.println("El promedio de notas es:" + promedio);
+      System.out.println("El promedio de ingresos es:" + promedio);
   }
 }
