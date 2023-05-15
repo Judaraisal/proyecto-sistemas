@@ -12,7 +12,8 @@
 #### Aproximación plantilla historia de usuario:
 
 ![N|Solid](https://lh3.googleusercontent.com/rsZjl-saV8VmFepcfxoXenFVo_TGZ1ya7lXIOdLSlqAcieTJGBUb1XdFCwn3NI0mWNX9eSrD_BRX4yN03NqRagzjKBhNrBvRJLIOR7l_)
-![N|Solid]([https://lh3.googleusercontent.com/rsZjl-saV8VmFepcfxoXenFVo_TGZ1ya7lXIOdLSlqAcieTJGBUb1XdFCwn3NI0mWNX9eSrD_BRX4yN03NqRagzjKBhNrBvRJLIOR7l_](https://lh3.googleusercontent.com/mhWgQ4b4YDKs9JnIXZVdcruHwBYHBgxbstW3DmIwaCrkGAhvrWYdcLW6FP0DJL5mxG1tO20EsjVtN1VoLntsbqtZgn6uNQ0f2h61zvxj))
+
+![N|Solid](https://lh3.googleusercontent.com/RlFO4EUxNFnR66SUy6HwOggCepS6kD035T3M90U4uha0wAy4CAPBRkz5TMqV9o6iF6JiyehOcJMRxUa8BZM55zippI_Wp3LJuj_fcBh9Uw)
 
 ## Aproximación caso de uso:
 
