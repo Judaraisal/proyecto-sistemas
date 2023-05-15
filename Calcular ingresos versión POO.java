@@ -43,7 +43,7 @@ public class ingresoprincipal
             double sum = (losMeses[i].ingresouno + losMeses[i].ingresodos + losMeses[i].ingresotres)/3;
             promedio = promedio + sum / numMes;
         }
-        System.out.println("EL promedio de notas es: "+ promedio);
+        System.out.println("EL promedio de ingresos es: "+ promedio);
     }
 }
 }
