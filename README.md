@@ -17,7 +17,7 @@
 
 ## Aproximación caso de uso:
 
-![N|Solid](https://lh3.googleusercontent.com/dBxtRRaqgj0GzUMWFucHeAJgUuAQe8PsRUkbx0jRz0tX9OUYIUg26frcjWbljICof4nQi2dUtQiBqKm8ZCcQswvIkcw19ygXtG2TwuKdqw) 
+![N|Solid](https://lh3.googleusercontent.com/GAhNzpXTMiawX4beXvm1k62GDSD3jsBdw8R3dWIpHl4ZniaAVBoFdQUyeZEvOeav4PZXvX20_LGfge92qOcGcoPA0lCRGpBhyqu2ttZf) 
 
 ### Descripción caso de uso
 ##### Nombre: Calcular promedio Ingresos Mensuales
