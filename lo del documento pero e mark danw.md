@@ -32,7 +32,7 @@
 
 ### Aproximación Diagrama de Flujo:
 ![N|Solid](https://lh3.googleusercontent.com/1gM-8L9YiDd8P4Dds6JY6b6Z8evBTAN99sf45ZcmrulRwqSh0WBNoqnDH5-wPI1sEnVb9XWCwNnhSoi5mLNK8oHVD3BTYuuVnzhzyaTz)
-#### Aproximación seudocódigo          
+### Aproximación seudocódigo          
 ###### .
 #### Inicio 
 
